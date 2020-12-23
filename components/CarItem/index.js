@@ -11,10 +11,23 @@ const CarItem = (props) => {
         style={styles.image}
       />
       <View style={styles.titles}>
-        <Text style={styles.title}>Model S</Text>
+        <Text style={styles.title}>Model X</Text>
         <Text style={styles.subtitle}>Starting at $69,420</Text>
       </View>
-      <StyledButton />
+      <StyledButton
+        type="primary"
+        content={"Custom Order"}
+        onPress={() => {
+          console.warn("Custom Order was pressed");
+        }}
+      />
+      <StyledButton
+        type="secondary"
+        content={"Existing Order"}
+        onPress={() => {
+          console.warn("Existing Order was pressed");
+        }}
+      />
     </View>
   );
 };
