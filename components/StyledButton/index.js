@@ -7,6 +7,9 @@ const StyledButton = (props) => {
   const content = props.content;
   const onPress = props.onPress;
 
+  // Destructing ES6
+  // const {type, content, onPress} = props;
+
   const backgroundColor = type === "primary" ? "#171A20CC" : "#E3E3E3";
   const textColor = type === "primary" ? "#FFFFFF" : "#171A20";
 
