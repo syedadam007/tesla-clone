@@ -2,7 +2,7 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19000,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "expoServerNgrokUrl": "https://wz-wfz.anonymous.tesla-clone.exp.direct",
+  "packagerNgrokUrl": "https://packager.wz-wfz.anonymous.tesla-clone.exp.direct",
+  "ngrokPid": 92499
 }
