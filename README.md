@@ -1,8 +1,7 @@
-# Tesla Website w/ React Native
+# About
+Building the Tesla site using React Native for cross-platform development.
 
 ## Video Walkthrough 
-
-Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/m1jXtSM2OcEEX1oNdP/giphy.gif' title='Tesla Website' width='' alt='Tesla Website' />
 
