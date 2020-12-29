@@ -1,5 +1,3 @@
-# tesla-clone
- w/ React Native
 # Tesla Website w/ React Native
 
 ## Video Walkthrough 
