@@ -1,4 +1,4 @@
-# About
+## About
 Building the Tesla site using React Native for cross-platform development.
 
 ## Video Walkthrough 
